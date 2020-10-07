@@ -319,7 +319,7 @@
 
     <!-- Top menu item -->
 
-    <menuitem name="Helpdesk" id="menu_root" />
+    <menuitem name="Helpdesk" id="menu_root" web_icon="helpdesk_lite,static/description/icon.png"/>
 
 
     <!-- menu categories -->
